@@ -1,0 +1,16 @@
+{
+  "name": "B2268S Admin Tool by Android 20",
+  "description": "Access admin panel for b2268s.",
+  "version": "2.1",
+  "permissions": [
+    "activeTab", "https://192.168.15.1/indexMain.cgi"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_title": "B2268S Admin Tool by Android 20"
+  },
+  "manifest_version": 2
+}
