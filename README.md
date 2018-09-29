@@ -3,17 +3,16 @@ Unlock the admin access for the PLDT HomeBro LTE Huawei B2268s V100R001C00SPC170
 
 
 ## Installation
-1. download and extract the extension
-2. go to chrome://extensions/
-3. enable developer mode (skip this step if developer mode is enabled)
-4. select load unpacked extension
-5. select the directory of the extension
+1. go to chrome://extensions/
+2. enable developer mode (skip this step if developer mode is enabled)
+3. select load unpacked extension
+4. select the directory of the extension (B2258S Admin Tool v2.00)
 
 
 ## Admin Access Using homebro Account
 1. go to https://192.168.15.1
 2. log in homebro account (homebro:homebro)
-3. click the extension icon (yung avatar ko)
+3. click the extension icon (my avatar)
 4. click OK (important)
 
 
