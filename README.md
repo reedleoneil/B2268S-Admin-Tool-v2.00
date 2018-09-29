@@ -18,14 +18,13 @@ Unlock the admin access for the PLDT HomeBro LTE Huawei B2268s V100R001C00SPC170
 
 ## Admin Access Using admin Account
 1. make sure you have admin access using homebro account (see steps above)
-2. download nanex.rom (credits to nanext)
-3. go to maintenance > backup/restore > restore configuration
-4. click choose file and select nanex.rom
-5. click upload
-6. click ok
-7. router will restart, please wait
-8. log in using admin account (admin:wowpangkape15)
-9. no need to activate extension if using admin account
+2. go to maintenance > backup/restore > restore configuration
+3. click choose file and select nanex.rom
+4. click upload
+5. click ok
+6. router will restart, please wait
+7. log in using admin account (admin:wowpangkape15)
+8. no need to activate extension if using admin account
 
 
 ## Check this out!
