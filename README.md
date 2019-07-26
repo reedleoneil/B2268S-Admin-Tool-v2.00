@@ -28,5 +28,5 @@ Unlock the admin access for the PLDT HomeBro LTE Huawei B2268s V100R001C00SPC170
 
 
 ## Check this out!
->Fore more information, check out my thread at [symbianize](http://www.symbianize.com/showthread.php?t=1360167)
+>Fore more information, check out my thread at [mobilarian](http://www.mobilarian.com/showthread.php?t=1360167)
 
