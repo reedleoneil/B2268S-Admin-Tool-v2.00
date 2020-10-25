@@ -28,5 +28,5 @@ Unlock the admin access for the PLDT HomeBro LTE Huawei B2268s V100R001C00SPC170
 
 
 ## Feedbacks from mobilarian (formerly symbianize)
-[![Feedbacks](https://github.com/reedleoneil/B2268S-Admin-Tool-v2.00/blob/master/feedbacks.jpg "")](https://github.com/reedleoneil/B2268S-Admin-Tool-v2.00/blob/master/feedbacks.jpg)
+[![Feedbacks](https://github.com/reedleoneil/B2268S-Admin-Tool-v2.00/blob/master/feedbacks_desktop.png "")](https://github.com/reedleoneil/B2268S-Admin-Tool-v2.00/blob/master/feedbackss_desktop.png)
 
