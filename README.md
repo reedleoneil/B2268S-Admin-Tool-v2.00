@@ -27,6 +27,6 @@ Unlock the admin access for the PLDT HomeBro LTE Huawei B2268s V100R001C00SPC170
 8. no need to activate extension if using admin account
 
 
-## Check this out!
->Fore more information, check out my thread at [mobilarian](http://www.mobilarian.com/showthread.php?t=1360167)
+## Feedbacks from mobilarian (formerly symbianize)
+[![Feedbacks](https://github.com/reedleoneil/B2268S-Admin-Tool-v2.00/blob/master/feedbacks.jpg "")](https://github.com/reedleoneil/B2268S-Admin-Tool-v2.00/blob/master/feedbacks.jpg)
 
